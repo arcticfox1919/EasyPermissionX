@@ -10,7 +10,7 @@
 
 
 
-@interface LBXPermissionBluetooth : NSObject
+@interface EasyPermissionBluetooth : NSObject
 
 
 + (BOOL)authorized;
