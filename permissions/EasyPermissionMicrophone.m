@@ -7,7 +7,7 @@
 
 + (BOOL)authorized
 {
-    return [self authorizationStatus] == AVAudioSessionRecordPermissionGranted;
+    return [self authorizationStatus] == 2;
 }
 
 
